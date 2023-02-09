@@ -1,5 +1,6 @@
 # 19.7.2_test_pet
 Тестирование сайта Pet Friends https://petfriends.skillfactory.ru/my_pets Документация к имеющимся API-методам на сайте https://petfriends.skillfactory.ru/apidocs/#/default/post_api_pets_set_photo__pet_id_ Тест-кейсы для данного REST API интерфейса.
+
 В директории /tests располагается файл с тестами
 В директории /tests/images лежат картинки для теста добавления питомца и теста добавления картинки
 В корневой директории лежит файл settings.py - содержит информацию о валидном логине и пароле
